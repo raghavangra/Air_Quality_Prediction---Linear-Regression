@@ -1,3 +1,3 @@
 # Linear-regression
 
-## Air Quality Prediction
+# Air Quality Prediction
